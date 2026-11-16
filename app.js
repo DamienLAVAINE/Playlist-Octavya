@@ -6,7 +6,8 @@ const tracks = [
   { name: "Setpiste", file: "audio/setpiste 02.11.mp3", duration: "3:54" },
   { name: "Cause toujours", file: "audio/cause toujours v11.mp3", duration: "3:46" },
   { name: "Flamand rose", file: "audio/Flamand rose v2.3.mp3", duration: "3:16" },
-  { name: "Comète", file: "audio/Comète v1.6.mp3", duration: "3:40" },
+  { name: "Comète", file: "audio/Comète v1.6.mp3", duration: "3:43" },
+  { name: "Les mecs fragiles", file: "audio/LMF 1.1.mp3", duration: "3:40" },
   { name: "Les Rita - C'est comme ça", file: "Les Rita - C'est comme ça.mp3", duration: "4:54" },
 
 
