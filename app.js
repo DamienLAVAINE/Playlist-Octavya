@@ -9,9 +9,10 @@ const tracks = [
   { name: "Comète", file: "audio/Comète v1.6.mp3", duration: "3:40" },
   { name: "Les mecs fragiles", file: "audio/LMF 1.1.mp3", duration: "3:43" },
   { name: "Aie Aie Aie", file: "audio/Oct - AieAieAie 1.1.mp3", duration: "3:55" },
+  { name: "Débranchez-le", file: "audio/Débranchez le v2.6.mp3", duration: "3:37" },
   { name: "Les Rita - C'est comme ça", file: "audio/Les Rita - C'est comme ça.mp3", duration: "4:54" },
   { name: "Moreno - Tout l'amour", file: "audio/MORENO - Toutt l'amour que j'ai pour toi 2.1.mp3", duration: "2:15" },
-
+  { name: "Tireuse only", file: "audio/Débranchez le v2.6.mp3", duration: "3:40" },
 
 ];
 
