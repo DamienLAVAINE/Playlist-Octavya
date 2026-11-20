@@ -12,8 +12,9 @@ const tracks = [
   { name: "Débranchez-le", file: "audio/Débranchez le v2.6.mp3", duration: "3:37" },
   { name: "Les Rita - C'est comme ça", file: "audio/Les Rita - C'est comme ça.mp3", duration: "4:54" },
   { name: "Moreno - Tout l'amour", file: "audio/MORENO - Toutt l'amour que j'ai pour toi 2.1.mp3", duration: "2:15" },
-  { name: "Tireuse only", file: "audio/Débranchez le v2.6.mp3", duration: "3:40" },
-  { name: "Gen 90", file: "audio/Débranchez le v2.6.mp3", duration: "4:01" },
+  { name: "Tireuse only", file: "audio/Octavya - Tireuse only v1.1.mp3", duration: "3:40" },
+  { name: "Gen 90", file: "audio/gen 90 remix 2_ 20.11 - v3.mp3", duration: "3:43" },
+  { name: "Chante", file: "audio/gen 90 remix 2_ 20.11 - v3.mp3", duration: "3:43" },
 
 ];
 
