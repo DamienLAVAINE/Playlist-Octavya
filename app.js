@@ -3,18 +3,18 @@ const tracks = [
   { name: "Mito", file: "audio/Mito v2.6.mp3", duration: "4:28" },
   { name: "QG", file: "audio/QG V12.1.mp3", duration: "4:21" },
   { name: "GRS", file: "audio/GRS v2.5.mp3", duration: "2:55" },
+  { name: "Comète", file: "audio/Comète v1.7.mp3", duration: "3:40" },
+  { name: "Débranchez-le", file: "audio/Débranchez le v2.6.mp3", duration: "3:37" },
   { name: "Setpiste", file: "audio/setpiste 02.11.mp3", duration: "3:54" },
   { name: "Cause toujours", file: "audio/cause toujours v11.mp3", duration: "3:46" },
   { name: "Flamand rose", file: "audio/Flamand rose v2.3.mp3", duration: "3:16" },
-  { name: "Comète", file: "audio/Comète v1.6.mp3", duration: "3:40" },
-  { name: "Les mecs fragiles", file: "audio/LMF 1.1.mp3", duration: "3:43" },
   { name: "Aie Aie Aie", file: "audio/Oct - AieAieAie 1.1.mp3", duration: "3:55" },
-  { name: "Débranchez-le", file: "audio/Débranchez le v2.6.mp3", duration: "3:37" },
   { name: "Les Rita - C'est comme ça", file: "audio/Les Rita - C'est comme ça.mp3", duration: "4:54" },
   { name: "Moreno - Tout l'amour", file: "audio/MORENO - Toutt l'amour que j'ai pour toi 2.1.mp3", duration: "2:15" },
   { name: "Tireuse only", file: "audio/Octavya - Tireuse only v1.1.mp3", duration: "3:40" },
   { name: "Gen 90", file: "audio/gen 90 remix 2_ 20.11 - v3.mp3", duration: "3:43" },
-  { name: "Chante", file: "audio/gen 90 remix 2_ 20.11 - v3.mp3", duration: "3:43" },
+  { name: "Chante (en attente audio)", file: "audio/gen 90 remix 2_ 20.11 - v3.mp3", duration: "3:43" },
+  { name: "Toi et Moi (en attente audio)", file: "audio/gen 90 remix 2_ 20.11 - v3.mp3", duration: "3:43" },
 
 ];
 
