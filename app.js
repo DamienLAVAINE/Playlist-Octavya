@@ -12,7 +12,7 @@ const tracks = [
   { name: "Les Rita - C'est comme ça", file: "audio/Les Rita - C'est comme ça.mp3", duration: "4:54" },
   { name: "Moreno - Tout l'amour", file: "audio/MORENO - Toutt l'amour que j'ai pour toi 2.1.mp3", duration: "2:15" },
   { name: "Tireuse only", file: "audio/Octavya - Tireuse only v1.1.mp3", duration: "3:40" },
-  { name: "Gen 90", file: "audio/gen 90 remix 2_ 20.11 - v3.mp3", duration: "3:43" },
+  { name: "Gen 90", file: "audio/Gen 90 v3.1.mp3", duration: "3:43" },
   { name: "Chante (en attente audio)", file: "audio/gen 90 remix 2_ 20.11 - v3.mp3", duration: "3:43" },
   { name: "Toi et Moi (en attente audio)", file: "audio/gen 90 remix 2_ 20.11 - v3.mp3", duration: "3:43" },
 
