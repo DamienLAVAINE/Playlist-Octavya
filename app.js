@@ -4,7 +4,7 @@ const tracks = [
   { name: "QG", file: "audio/QG V12.1.mp3", duration: "4:21" },
   { name: "GRS", file: "audio/GRS v2.5.mp3", duration: "2:55" },
   { name: "Comète", file: "audio/Comète v1.7.mp3", duration: "3:40" },
-  { name: "Débranchez-le", file: "audio/Débranchez le v2.6.mp3", duration: "3:37" },
+  { name: "Débranchez-le", file: "audio/Débranchez le v2.8.mp3", duration: "3:58" },
   { name: "Setpiste", file: "audio/setpiste 02.11.mp3", duration: "3:54" },
   { name: "Cause toujours", file: "audio/cause toujours v11.mp3", duration: "3:46" },
   { name: "Flamand rose", file: "audio/Flamand rose v2.3.mp3", duration: "3:16" },
